@@ -4,23 +4,20 @@
 <link rel="stylesheet" href="styles.css" type="text/css">
 
 
-## Tutorials
+## Workshops and  Tutorials
 
-You can find materials related to tutorials I have presented at [www.emilyzabor.com/tutorials](http://www.emilyzabor.com/tutorials/).
+**Coming Soon**
+[BSID](https://www.eventsforce.net/bad/frontend/reg/thome.csp?pageID=82559&eventID=273&CSPCHD=001001000000cko1OW1S9ix$Zb8ugVCgn5Arzg6HRvSC$rOvyu)
+[NorthernBUG](https://northernbug.github.io/)
 
+## Galaxy Admins and Developers
 
-## Adjunct professor classes
+[EWAS Tools Suite](https://www.biorxiv.org/content/10.1101/553784v1?rss=1&fbclid=IwAR3jH9vUhXnOS2loxKhDc7Y5VG7ll3jJ94dnesXgKlISHE5ru1RjlSOTWiU)
 
-Spring 2017: Fundamentals of Biostatistics, Hunter College
+## Associate Members of the EpiGenSys
 
-Fall 2016: Fundamentals of Biostatistics, Hunter College
+## Data and Software Carpentry Instructors
 
+## Members of Bioconda Community
 
-## Teaching assistant classes
-
-Fall 2017: Data Science I, Columbia University
-
-Spring 2010: Advanced Topics in Clinical Trials, The University of Minnesota
-
-Spring 2009: Introduction to Biostatistics, The University of Minnesota
-
+## Reviewers of the Journal of Investigative Dermatology
